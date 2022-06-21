@@ -8,4 +8,4 @@ now taking advantage of ERP (Enterprise Resource Planning) software we decided t
 our project into the ERP environment only made sense. In addition, we would be able to leverage 
 the interconnectivity that makes ERP software so attractive into our project in order to make it more
 robust and feature rich. 
-*
+
