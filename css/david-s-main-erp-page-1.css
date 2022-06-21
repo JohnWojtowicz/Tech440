@@ -1,0 +1,1690 @@
+/* screen - davids-s-unused-buttons-page-1 */
+
+.davids-s-unused-buttons-page-1 {
+  background-color: #444444;
+  cursor: pointer;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.davids-s-unused-buttons-page-1 .erp-title-bar-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.davids-s-unused-buttons-page-1 .title-bar-s9CoF2 {
+  --z-index: 0;
+  background-color: #919191;
+  border: 5px solid #2000ff;
+  height: calc(100.00% + 10px);
+  left: -5px;
+  opacity: 1;
+  position: absolute;
+  top: -5px;
+  width: calc(100.00% + 10px);
+}
+
+.davids-s-unused-buttons-page-1 .tech440-employee-resource-page-s9CoF2 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(43.06% - 20px);
+  color: #fffcfc;
+  font-family: "Mongolian Baiti", Helvetica;
+  font-size: 41px;
+  height: 46px;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 41px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 575px;
+}
+
+.davids-s-unused-buttons-page-1 .span0-zyvALp {
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.davids-s-unused-buttons-page-1 .span1-zyvALp {
+  color: #2000ff;
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.davids-s-unused-buttons-page-1 .span2-zyvALp {
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.davids-s-unused-buttons-page-1 .file-sharing-button-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100px;
+  left: 568px;
+  opacity: 0;
+  position: absolute;
+  top: 456px;
+  width: 104px;
+}
+
+.davids-s-unused-buttons-page-1 .file-sharing-t41cAk {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.davids-s-unused-buttons-page-1 .x12-t41cAk {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----12@1x.png);
+  background-size: 100% 100%;
+  border-radius: 15px;
+  height: 68px;
+  left: 18px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+
+.davids-s-unused-buttons-page-1 .payroll-button-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 101px;
+  left: 933px;
+  opacity: 0;
+  position: absolute;
+  top: 294px;
+  width: 86px;
+}
+
+.davids-s-unused-buttons-page-1 .payroll-3FhofJ {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.davids-s-unused-buttons-page-1 .x10-3FhofJ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----10@1x.png);
+  background-size: 100% 100%;
+  border-radius: 24px;
+  height: calc(100.00% - 32px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.davids-s-unused-buttons-page-1 .calendar-button-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 101px;
+  left: 765px;
+  opacity: 0;
+  position: absolute;
+  top: 294px;
+  width: 84px;
+}
+
+.davids-s-unused-buttons-page-1 .calendar-2Rx0Bv {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 4px);
+}
+
+.davids-s-unused-buttons-page-1 .x9-2Rx0Bv {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----9@1x.png);
+  background-size: 100% 100%;
+  border-radius: 24px;
+  height: calc(100.00% - 32px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.davids-s-unused-buttons-page-1 .rolodex-button-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 100px;
+  left: 577px;
+  opacity: 0;
+  position: absolute;
+  top: 297px;
+  width: 83px;
+}
+
+.davids-s-unused-buttons-page-1 .rolodex-ZE30Mf {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 9px);
+}
+
+.davids-s-unused-buttons-page-1 .x7-ZE30Mf {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----7@1x.png);
+  background-size: 100% 100%;
+  border-radius: 22px;
+  height: calc(100.00% - 32px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.davids-s-unused-buttons-page-1 .sales-button-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 102px;
+  left: 931px;
+  opacity: 0;
+  position: absolute;
+  top: 144px;
+  width: 89px;
+}
+
+.davids-s-unused-buttons-page-1 .place-jQmh8r {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.62% - 22px);
+  text-align: left;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.davids-s-unused-buttons-page-1 .x3-jQmh8r {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----3@1x.png);
+  background-size: 100% 100%;
+  border-radius: 19px;
+  height: calc(100.00% - 33px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.davids-s-unused-buttons-page-1 .hr-button-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 102px;
+  left: 1106px;
+  opacity: 0;
+  position: absolute;
+  top: 144px;
+  width: 89px;
+}
+
+.davids-s-unused-buttons-page-1 .hr-2XNtJF {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.54% - 13px);
+  text-align: left;
+  white-space: nowrap;
+  width: 28px;
+}
+
+.davids-s-unused-buttons-page-1 .x5-2XNtJF {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----5@1x.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  height: calc(100.00% - 33px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.davids-s-unused-buttons-page-1 .finance-button-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 102px;
+  left: 769px;
+  opacity: 0;
+  position: absolute;
+  top: 144px;
+  width: 76px;
+}
+
+.davids-s-unused-buttons-page-1 .finance-YuaP06 {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.davids-s-unused-buttons-page-1 .x13-YuaP06 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----13@1x.png);
+  background-size: 100% 100%;
+  border-radius: 17px;
+  height: calc(100.00% - 32px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.davids-s-unused-buttons-page-1 .manufacturing-button-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 102px;
+  left: 554px;
+  opacity: 0;
+  position: absolute;
+  top: 144px;
+  width: 131px;
+}
+
+.davids-s-unused-buttons-page-1 .manufacturing-w8Yt3x {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.davids-s-unused-buttons-page-1 .x11-w8Yt3x {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----11@1x.png);
+  background-size: 100% 100%;
+  border-radius: 18px;
+  height: 65px;
+  left: calc(50.00% - 40px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 79px;
+}
+
+.davids-s-unused-buttons-page-1 .settings-button-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 59px;
+  left: 63px;
+  opacity: 0;
+  position: absolute;
+  top: 708px;
+  width: 158px;
+}
+
+.davids-s-unused-buttons-page-1 .settings-uuDVOu {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(35.48% - 10px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.davids-s-unused-buttons-page-1 .x15-uuDVOu {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----15@1x.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.davids-s-unused-buttons-page-1 .webmail-button-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 71px;
+  left: 63px;
+  opacity: 0;
+  position: absolute;
+  top: 607px;
+  width: 165px;
+}
+
+.davids-s-unused-buttons-page-1 .webmail-48Qk1Q {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(39.53% - 11px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.davids-s-unused-buttons-page-1 .x8-48Qk1Q {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----8@1x.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.davids-s-unused-buttons-page-1 .to-do-list-button-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 64px;
+  left: 63px;
+  opacity: 0;
+  position: absolute;
+  top: 513px;
+  width: 175px;
+}
+
+.davids-s-unused-buttons-page-1 .to-do-list-BXySqh {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(44.44% - 12px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.davids-s-unused-buttons-page-1 .x20-BXySqh {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----20@1x.png);
+  background-size: 100% 100%;
+  border-radius: 7px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.davids-s-unused-buttons-page-1 .company-news-button-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  height: 69px;
+  left: 63px;
+  opacity: 0;
+  position: absolute;
+  top: 414px;
+  width: 225px;
+}
+
+.davids-s-unused-buttons-page-1 .company-news-BZxIr6 {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(39.02% - 11px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 140px;
+}
+
+.davids-s-unused-buttons-page-1 .x19-BZxIr6 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----19@1x.png);
+  background-size: 100% 100%;
+  border-radius: 11px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.davids-s-unused-buttons-page-1 .my-benefits-button-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  height: 69px;
+  left: 63px;
+  opacity: 0;
+  position: absolute;
+  top: 315px;
+  width: 190px;
+}
+
+.davids-s-unused-buttons-page-1 .my-benefits-xAqXjL {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(39.02% - 11px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.davids-s-unused-buttons-page-1 .x17-xAqXjL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----17@1x.png);
+  background-size: 100% 100%;
+  border-radius: 11px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.davids-s-unused-buttons-page-1 .user-profile-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  height: 123px;
+  left: 63px;
+  opacity: 0;
+  position: absolute;
+  top: 134px;
+  width: 308px;
+}
+
+.davids-s-unused-buttons-page-1 .x21-unEUdq {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/file----21@1x.png);
+  background-size: 100% 100%;
+  border-radius: 80px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.davids-s-unused-buttons-page-1 .name-unEUdq {
+  --z-index: 1;
+  background-color: transparent;
+  color: #fffcfc;
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 27px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.davids-s-unused-buttons-page-1 .sales-associate-unEUdq {
+  --z-index: 2;
+  background-color: transparent;
+  color: #fffcfc;
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  right: 39px;
+  text-align: left;
+  top: calc(42.65% - 9px);
+  white-space: nowrap;
+  width: 114px;
+}
+
+.davids-s-unused-buttons-page-1 .please-press-the-file-sharing-button-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'MicrosoftSans Serif-Regular', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 597px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 666px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.davids-s-unused-buttons-page-1 .this-page-will-autom-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'MicrosoftSans Serif-Regular', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 371px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.davids-s-unused-buttons-page-1 .user-profile-window-C61RwL {
+  --z-index: 17;
+  background-color: #919191;
+  border: 5px solid #2000ff;
+  border-radius: 50px;
+  height: 927px;
+  left: -2014px;
+  opacity: 1;
+  position: absolute;
+  top: 1322px;
+  width: 1773px;
+}
+
+.davids-s-unused-buttons-page-1 .please-type-in-your-username-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  border: 0;
+  color: #c7bfbf;
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  left: -1588px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 1613px;
+  white-space: nowrap;
+  width: 390px;
+}
+
+.davids-s-unused-buttons-page-1 .please-type-in-your-username-C61RwL::placeholder {
+  color: #c7bfbf99;
+}
+
+.davids-s-unused-buttons-page-1 .please-type-in-your-password-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  border: 0;
+  color: #c7bfbf;
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  left: -1588px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 1835px;
+  white-space: nowrap;
+  width: 386px;
+}
+
+.davids-s-unused-buttons-page-1 .please-type-in-your-password-C61RwL::placeholder {
+  color: #c7bfbf99;
+}
+/* screen - david-s-main-erp-page-1 */
+
+.david-s-main-erp-page-1 {
+  background-color: #444444;
+  height: 1080px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.david-s-main-erp-page-1 .user-profile-window-C61RwL {
+  --z-index: 0;
+  background-color: #919191;
+  border: 5px solid #2000ff;
+  border-radius: 50px;
+  cursor: pointer;
+  height: 907px;
+  left: 47px;
+  opacity: 1;
+  position: absolute;
+  top: 121px;
+  width: 380px;
+}
+
+.david-s-main-erp-page-1 .file-sharing-button-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  cursor: pointer;
+  height: 100px;
+  left: 568px;
+  opacity: 1;
+  position: absolute;
+  top: 456px;
+  width: 104px;
+}
+
+.david-s-main-erp-page-1 .file-sharing-t41cAk {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.david-s-main-erp-page-1 .x12-t41cAk {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----12@1x.png);
+  background-size: 100% 100%;
+  border-radius: 15px;
+  height: 68px;
+  left: 18px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 39px);
+}
+
+.david-s-main-erp-page-1 .payroll-button-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  cursor: pointer;
+  height: 101px;
+  left: 933px;
+  opacity: 1;
+  position: absolute;
+  top: 294px;
+  width: 86px;
+}
+
+.david-s-main-erp-page-1 .payroll-3FhofJ {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.david-s-main-erp-page-1 .x10-3FhofJ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----10@1x.png);
+  background-size: 100% 100%;
+  border-radius: 24px;
+  height: calc(100.00% - 32px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.david-s-main-erp-page-1 .calendar-button-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  cursor: pointer;
+  height: 101px;
+  left: 765px;
+  opacity: 1;
+  position: absolute;
+  top: 294px;
+  width: 84px;
+}
+
+.david-s-main-erp-page-1 .calendar-2Rx0Bv {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 4px);
+}
+
+.david-s-main-erp-page-1 .x9-2Rx0Bv {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----9@1x.png);
+  background-size: 100% 100%;
+  border-radius: 24px;
+  height: calc(100.00% - 32px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.david-s-main-erp-page-1 .rolodex-button-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  cursor: pointer;
+  height: 100px;
+  left: 577px;
+  opacity: 1;
+  position: absolute;
+  top: 297px;
+  width: 83px;
+}
+
+.david-s-main-erp-page-1 .rolodex-ZE30Mf {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 9px);
+}
+
+.david-s-main-erp-page-1 .x7-ZE30Mf {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----7@1x.png);
+  background-size: 100% 100%;
+  border-radius: 22px;
+  height: calc(100.00% - 32px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.david-s-main-erp-page-1 .sales-button-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  cursor: pointer;
+  height: 102px;
+  left: 931px;
+  opacity: 1;
+  position: absolute;
+  top: 144px;
+  width: 89px;
+}
+
+.david-s-main-erp-page-1 .place-jQmh8r {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.62% - 22px);
+  text-align: left;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.david-s-main-erp-page-1 .x3-jQmh8r {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----3@1x.png);
+  background-size: 100% 100%;
+  border-radius: 19px;
+  height: calc(100.00% - 33px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.david-s-main-erp-page-1 .hr-button-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  cursor: pointer;
+  height: 102px;
+  left: 1106px;
+  opacity: 1;
+  position: absolute;
+  top: 144px;
+  width: 89px;
+}
+
+.david-s-main-erp-page-1 .hr-2XNtJF {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: calc(47.54% - 13px);
+  text-align: left;
+  white-space: nowrap;
+  width: 28px;
+}
+
+.david-s-main-erp-page-1 .x5-2XNtJF {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----5@1x.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  height: calc(100.00% - 33px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.david-s-main-erp-page-1 .finance-button-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  cursor: pointer;
+  height: 102px;
+  left: 769px;
+  opacity: 1;
+  position: absolute;
+  top: 144px;
+  width: 76px;
+}
+
+.david-s-main-erp-page-1 .finance-YuaP06 {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.david-s-main-erp-page-1 .x13-YuaP06 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----13@1x.png);
+  background-size: 100% 100%;
+  border-radius: 17px;
+  height: calc(100.00% - 32px);
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.david-s-main-erp-page-1 .manufacturing-button-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  cursor: pointer;
+  height: 102px;
+  left: 554px;
+  opacity: 1;
+  position: absolute;
+  top: 144px;
+  width: 131px;
+}
+
+.david-s-main-erp-page-1 .manufacturing-w8Yt3x {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: -5px;
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.david-s-main-erp-page-1 .x11-w8Yt3x {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----11@1x.png);
+  background-size: 100% 100%;
+  border-radius: 18px;
+  height: 65px;
+  left: calc(50.00% - 40px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 79px;
+}
+
+.david-s-main-erp-page-1 .settings-button-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 63px;
+  opacity: 1;
+  position: absolute;
+  top: 708px;
+  width: 158px;
+}
+
+.david-s-main-erp-page-1 .settings-uuDVOu {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(35.48% - 10px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.david-s-main-erp-page-1 .x15-uuDVOu {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----15@1x.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.david-s-main-erp-page-1 .webmail-button-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  cursor: pointer;
+  height: 71px;
+  left: 63px;
+  opacity: 1;
+  position: absolute;
+  top: 607px;
+  width: 165px;
+}
+
+.david-s-main-erp-page-1 .webmail-48Qk1Q {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(39.53% - 11px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.david-s-main-erp-page-1 .x8-48Qk1Q {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----8@1x.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.david-s-main-erp-page-1 .to-do-list-button-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 64px;
+  left: 63px;
+  opacity: 1;
+  position: absolute;
+  top: 513px;
+  width: 175px;
+}
+
+.david-s-main-erp-page-1 .to-do-list-BXySqh {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(44.44% - 12px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.david-s-main-erp-page-1 .x20-BXySqh {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----20@1x.png);
+  background-size: 100% 100%;
+  border-radius: 7px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.david-s-main-erp-page-1 .company-news-button-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  cursor: pointer;
+  height: 69px;
+  left: 63px;
+  opacity: 1;
+  position: absolute;
+  top: 414px;
+  width: 225px;
+}
+
+.david-s-main-erp-page-1 .company-news-BZxIr6 {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(39.02% - 11px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 140px;
+}
+
+.david-s-main-erp-page-1 .x19-BZxIr6 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----19@1x.png);
+  background-size: 100% 100%;
+  border-radius: 11px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.david-s-main-erp-page-1 .my-benefits-button-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  cursor: pointer;
+  height: 69px;
+  left: 63px;
+  opacity: 1;
+  position: absolute;
+  top: 315px;
+  width: 190px;
+}
+
+.david-s-main-erp-page-1 .my-benefits-xAqXjL {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(39.02% - 11px);
+  color: #fffcfc;
+  font-family: 'MicrosoftTai Le-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.david-s-main-erp-page-1 .x17-xAqXjL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/file----17@1x.png);
+  background-size: 100% 100%;
+  border-radius: 11px;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.david-s-main-erp-page-1 .user-profile-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  height: 48px;
+  left: 218px;
+  opacity: 1;
+  position: absolute;
+  top: 148px;
+  width: 170px;
+}
+
+.david-s-main-erp-page-1 .name-unEUdq {
+  --z-index: 0;
+  background-color: transparent;
+  color: #fffcfc;
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% - 20px);
+}
+
+.david-s-main-erp-page-1 .chief-financial-officer-unEUdq {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: -2px;
+  color: #fffcfc;
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.david-s-main-erp-page-1 .erp-title-bar-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.david-s-main-erp-page-1 .title-bar-s9CoF2 {
+  --z-index: 0;
+  background-color: #919191;
+  border: 5px solid #2000ff;
+  height: calc(100.00% + 10px);
+  left: -5px;
+  opacity: 1;
+  position: absolute;
+  top: -5px;
+  width: calc(100.00% + 10px);
+}
+
+.david-s-main-erp-page-1 .tech440-employee-resource-page-s9CoF2 {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(43.06% - 20px);
+  color: #fffcfc;
+  font-family: "Mongolian Baiti", Helvetica;
+  font-size: 41px;
+  height: 46px;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 41px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 575px;
+}
+
+.david-s-main-erp-page-1 .span0-zyvALp {
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.david-s-main-erp-page-1 .span1-zyvALp {
+  color: #2000ff;
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.david-s-main-erp-page-1 .span2-zyvALp {
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.david-s-main-erp-page-1 .x23-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  background-image: url(../img/file----23@1x.png);
+  background-size: 100% 100%;
+  border-radius: 42px;
+  height: 123px;
+  left: 78px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 134px;
+  width: 122px;
+}
+
+.david-s-main-erp-page-1 .please-type-in-your-username-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  border: 0;
+  color: #c7bfbf;
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  left: -1588px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 1663px;
+  white-space: nowrap;
+  width: 390px;
+}
+
+.david-s-main-erp-page-1 .please-type-in-your-username-C61RwL::placeholder {
+  color: #c7bfbf99;
+}
+
+.david-s-main-erp-page-1 .please-type-in-your-password-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  border: 0;
+  color: #c7bfbf;
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  left: -1588px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 1885px;
+  white-space: nowrap;
+  width: 386px;
+}
+
+.david-s-main-erp-page-1 .please-type-in-your-password-C61RwL::placeholder {
+  color: #c7bfbf99;
+}
+
+.david-s-main-erp-page-1 .user-profile-VMr6Om {
+  --z-index: 19;
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: 218px;
+  opacity: 1;
+  position: absolute;
+  top: 204px;
+  width: 86px;
+}
+
+.david-s-main-erp-page-1 .switch-user-2CFExX {
+  --z-index: 0;
+  background-color: transparent;
+  color: #2000ff;
+  font-family: 'MongolianBaiti-Regular', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
