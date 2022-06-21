@@ -1,0 +1,240 @@
+/* screen - login-success-to-fail */
+
+.login-success-to-fail {
+  align-items: center;
+  background-color: var(--tundora);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.login-success-to-fail .erp-title-bar {
+  align-items: flex-start;
+  display: flex;
+  height: 82px;
+  justify-content: center;
+  min-width: 1920px;
+}
+
+.login-success-to-fail .overlap-group {
+  align-items: flex-start;
+  background-color: var(--gray);
+  display: flex;
+  height: 92px;
+  margin-top: -5px;
+  min-width: 1930px;
+  padding: 20.5px 140px;
+}
+
+.login-success-to-fail .tech440-employee-resource-page {
+  letter-spacing: 0;
+  line-height: 41px;
+  min-height: 46px;
+  white-space: nowrap;
+}
+
+.login-success-to-fail .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--gray);
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 81px;
+  min-height: 754px;
+  padding: 185.0px 238.0px;
+  width: 1443px;
+}
+
+.login-success-to-fail .overlap-group3 {
+  height: 273px;
+  position: relative;
+  width: 966px;
+}
+
+.login-success-to-fail .x56 {
+  align-items: flex-start;
+  background-color: var(--tundora);
+  border-radius: 50px;
+  display: flex;
+  height: 105px;
+  left: 0;
+  min-width: 966px;
+  padding: 27.7px 31.3px;
+  position: absolute;
+  top: 168px;
+}
+
+.login-success-to-fail .x19 {
+  align-items: flex-end;
+  background-image: url(../img/file---6-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 40px;
+  min-width: 38px;
+  padding: 10.5px 15.3px;
+}
+
+.login-success-to-fail .x2 {
+  background-color: var(--white);
+  border-radius: 3.82px;
+  height: 8px;
+  width: 8px;
+}
+
+.login-success-to-fail .x55 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 238px;
+  position: absolute;
+  top: 0;
+  width: 966px;
+}
+
+.login-success-to-fail .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--tundora);
+  border-radius: 50px;
+  display: flex;
+  height: 105px;
+  min-width: 966px;
+  padding: 27.0px 25.6px;
+}
+
+.login-success-to-fail .x18 {
+  align-items: flex-end;
+  background-image: url(../img/file---2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 50px;
+  padding: 2.4px 0;
+}
+
+.login-success-to-fail .overlap-group-1 {
+  height: 33px;
+  position: relative;
+  width: 50px;
+}
+
+.login-success-to-fail .x3 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.login-success-to-fail .x4 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 50px;
+}
+
+.login-success-to-fail .x5 {
+  height: 29px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 39px;
+}
+
+.login-success-to-fail .please-type-in-your-username {
+  align-self: center;
+  background-color: transparent;
+  border: 0;
+  height: 29px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 8.0px;
+  margin-left: 21px;
+  padding: 0;
+  width: 320px;
+}
+
+.login-success-to-fail .please-type-in-your-username::placeholder {
+  color: #70707099;
+}
+
+.login-success-to-fail .please-type-in-your-password {
+  background-color: transparent;
+  border: 0;
+  height: 29px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 101px;
+  margin-top: 106px;
+  padding: 0;
+  width: 320px;
+}
+
+.login-success-to-fail .please-type-in-your-password::placeholder {
+  color: #70707099;
+}
+
+.login-success-to-fail .x57 {
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 86px;
+  margin-right: 44.0px;
+  margin-top: -5px;
+  width: 174px;
+}
+
+.login-success-to-fail .x25 {
+  align-items: flex-end;
+  display: flex;
+  height: 4px;
+  min-width: 9px;
+}
+
+.login-success-to-fail .overlap-group-2 {
+  height: 6px;
+  margin-bottom: -1.5px;
+  position: relative;
+  width: 9px;
+}
+
+.login-success-to-fail .user-profile-window {
+  background-color: var(--tundora);
+  border-radius: 50px;
+  cursor: pointer;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.login-success-to-fail .sign-in {
+  -webkit-text-stroke: 1px var(--blue);
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 1px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.login-success-to-fail .kindpng_3573718 {
+  align-self: flex-end;
+  cursor: pointer;
+  flex: 1;
+  height: 63px;
+  margin-bottom: 0;
+  margin-left: 9px;
+  object-fit: cover;
+  width: 156px;
+}

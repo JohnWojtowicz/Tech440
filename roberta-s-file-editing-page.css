@@ -1,0 +1,146 @@
+/* screen - roberta-s-file-editing-page */
+
+.roberta-s-file-editing-page {
+  align-items: flex-end;
+  background-color: var(--tundora);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.roberta-s-file-editing-page .overlap-group2 {
+  height: 82px;
+  position: relative;
+  width: 1920px;
+}
+
+.roberta-s-file-editing-page .overlap-group {
+  align-items: flex-start;
+  background-color: var(--gray);
+  display: flex;
+  height: 92px;
+  left: -5px;
+  min-width: 1930px;
+  padding: 20.5px 140px;
+  position: absolute;
+  top: -5px;
+}
+
+.roberta-s-file-editing-page .title {
+  letter-spacing: 0;
+  line-height: 41px;
+  min-height: 46px;
+  white-space: nowrap;
+}
+
+.roberta-s-file-editing-page .home-button {
+  cursor: pointer;
+  display: flex;
+  height: 65px;
+  left: 1650px;
+  position: absolute;
+  top: 9px;
+  width: 169px;
+}
+
+.roberta-s-file-editing-page .x1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  width: 171px;
+}
+
+.roberta-s-file-editing-page .x22 {
+  border-radius: 13px;
+  object-fit: cover;
+  width: 72px;
+}
+
+.roberta-s-file-editing-page .place {
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-bottom: -6.8px;
+  margin-right: -2px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.roberta-s-file-editing-page .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 151px;
+  margin-top: 82px;
+  min-width: 1263px;
+}
+
+.roberta-s-file-editing-page .x74 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 891px;
+  width: 859px;
+}
+
+.roberta-s-file-editing-page .x69 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  min-width: 111px;
+  padding: 3.5px 3px;
+}
+
+.roberta-s-file-editing-page .invite-others {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 104px;
+  white-space: nowrap;
+}
+
+.roberta-s-file-editing-page .x73 {
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  margin-top: 5px;
+}
+
+.roberta-s-file-editing-page .x24 {
+  flex: 1;
+  margin-bottom: 9px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 9px;
+  object-fit: cover;
+  width: 839px;
+}
+
+.roberta-s-file-editing-page .x17 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 34px;
+  margin-bottom: 39.0px;
+  margin-left: 370px;
+  min-width: 34px;
+  padding: 8.4px 8.4px;
+}
+
+.roberta-s-file-editing-page .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/file--2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 17px;
+}
+
+.roberta-s-file-editing-page .x3 {
+  height: 17px;
+  object-fit: cover;
+  width: 17px;
+}

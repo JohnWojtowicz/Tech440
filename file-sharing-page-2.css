@@ -1,0 +1,1368 @@
+/* screen - file-sharing-page-2 */
+
+.file-sharing-page-2 {
+  align-items: flex-end;
+  background-color: var(--tundora);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.file-sharing-page-2 .overlap-group17 {
+  height: 82px;
+  position: relative;
+  width: 1920px;
+}
+
+.file-sharing-page-2 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--gray);
+  display: flex;
+  height: 92px;
+  left: -5px;
+  min-width: 1930px;
+  padding: 20.5px 140px;
+  position: absolute;
+  top: -5px;
+}
+
+.file-sharing-page-2 .tech440-employee-file-sharing-page {
+  letter-spacing: 0;
+  line-height: 41px;
+  min-height: 46px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .home-button {
+  cursor: pointer;
+  display: flex;
+  height: 65px;
+  left: 1650px;
+  position: absolute;
+  top: 9px;
+  width: 169px;
+}
+
+.file-sharing-page-2 .x1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  width: 171px;
+}
+
+.file-sharing-page-2 .x22 {
+  border-radius: 13px;
+  object-fit: cover;
+  width: 72px;
+}
+
+.file-sharing-page-2 .place {
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-bottom: -6.8px;
+  margin-right: -2px;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.file-sharing-page-2 .x72 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 140px;
+  margin-top: 82px;
+  min-width: 393px;
+}
+
+.file-sharing-page-2 .x71 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 32px;
+  min-width: 111px;
+  padding: 3.5px 20px;
+}
+
+.file-sharing-page-2 .find-file {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 71px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x70 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 32px;
+  margin-left: 15px;
+  min-width: 141px;
+  padding: 2.5px 11px;
+}
+
+.file-sharing-page-2 .download-file {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x69 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  margin-left: 15px;
+  min-width: 111px;
+  padding: 3.5px 10px;
+}
+
+.file-sharing-page-2 .create-file {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 90px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group16 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  margin-top: 6px;
+  min-height: 864px;
+  padding: 10px 8px;
+  width: 1640px;
+}
+
+.file-sharing-page-2 .overlap-group18 {
+  align-self: center;
+  height: 53px;
+  position: relative;
+  width: 1620px;
+}
+
+.file-sharing-page-2 .x18 {
+  align-items: flex-start;
+  display: flex;
+  height: 27px;
+  left: 0;
+  min-width: 1620px;
+  position: absolute;
+  top: 0;
+}
+
+.file-sharing-page-2 .overlap-group6 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 27px;
+  min-width: 347px;
+  padding: 1.5px 27px;
+}
+
+.file-sharing-page-2 .file-name {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 84px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 27px;
+  justify-content: flex-end;
+  min-width: 161px;
+  padding: 1.5px 21px;
+}
+
+.file-sharing-page-2 .date-modified {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 113px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 27px;
+  min-width: 260px;
+  padding: 1.5px 27px;
+}
+
+.file-sharing-page-2 .last-modified-by {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 133px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 27px;
+  min-width: 197px;
+  padding: 1.5px 27px;
+}
+
+.file-sharing-page-2 .file-type {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group5 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 27px;
+  min-width: 101px;
+  padding: 1.5px 27px;
+}
+
+.file-sharing-page-2 .size {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 37px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  display: flex;
+  height: 27px;
+  min-width: 554px;
+  padding: 1.5px 25px;
+}
+
+.file-sharing-page-2 .current-users {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 23px;
+  min-width: 114px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x19 {
+  align-items: flex-end;
+  display: flex;
+  height: 26px;
+  left: 8px;
+  min-width: 1194px;
+  position: absolute;
+  top: 26px;
+}
+
+.file-sharing-page-2 .lorem-ipsum-dolor-sitdoc {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  min-height: 23px;
+  min-width: 208px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06182022-457-p {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 141px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-7 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 88px;
+  min-height: 23px;
+  min-width: 79px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-word-docume-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 97px;
+  min-height: 23px;
+  min-width: 195px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x8437-kb {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -1.76px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group10 {
+  align-items: flex-end;
+  background-image: url(../img/file---2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 18px;
+  min-width: 26px;
+  padding: 1.7px 2.8px;
+}
+
+.file-sharing-page-2 .ac {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 18px;
+  min-width: 18px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group8 {
+  align-items: flex-end;
+  background-image: url(../img/file---5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 4px;
+  min-width: 26px;
+  padding: 1.7px 2.8px;
+}
+
+.file-sharing-page-2 .rh {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 18px;
+  min-width: 19px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group7 {
+  align-items: flex-end;
+  background-image: url(../img/file---6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 4px;
+  min-width: 26px;
+  padding: 1.7px 0.8px;
+}
+
+.file-sharing-page-2 .wc {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 18px;
+  min-width: 22px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group9 {
+  align-items: flex-end;
+  background-image: url(../img/file---7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 4px;
+  min-width: 26px;
+  padding: 1.7px 4.8px;
+}
+
+.file-sharing-page-2 .fr {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 18px;
+  min-width: 16px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x20 {
+  align-items: flex-end;
+  display: flex;
+  margin-top: -2px;
+  min-width: 1103px;
+}
+
+.file-sharing-page-2 .cursus-in-hacxls {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  min-height: 23px;
+  min-width: 139px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .text-3 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 210px;
+  min-height: 23px;
+  min-width: 142px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-8 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 86px;
+  min-height: 23px;
+  min-width: 98px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-excel-docume-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 87px;
+  min-height: 23px;
+  min-width: 196px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x5277-kb {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -1.76px;
+  margin-left: 24px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group11 {
+  align-items: flex-end;
+  background-image: url(../img/file---10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 18px;
+  min-width: 26px;
+  padding: 1.7px 3.8px;
+}
+
+.file-sharing-page-2 .pb {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 18px;
+  min-width: 17px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x31 {
+  align-items: flex-end;
+  display: flex;
+  margin-top: 8px;
+  min-width: 1134px;
+}
+
+.file-sharing-page-2 .nulla-at-volutpat-diam-ut-venenatisdoc {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  min-height: 23px;
+  min-width: 311px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06182022-223-p {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 38px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-9 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 64px;
+  min-height: 23px;
+  min-width: 127px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-word-docume-5 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 73px;
+  min-height: 23px;
+  min-width: 195px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x1132-kb {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -1.76px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group12 {
+  align-items: flex-end;
+  background-image: url(../img/file---15@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 19px;
+  min-width: 26px;
+  padding: 1.7px 2.8px;
+}
+
+.file-sharing-page-2 .jw {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 18px;
+  min-width: 19px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group13 {
+  align-items: flex-end;
+  background-image: url(../img/file---17@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 4px;
+  min-width: 26px;
+  padding: 1.7px 1.8px;
+}
+
+.file-sharing-page-2 .rw {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 18px;
+  min-width: 22px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x32 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-top: 7px;
+  min-width: 1057px;
+}
+
+.file-sharing-page-2 .in-ante-metusdoc {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .text {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 204px;
+  min-height: 23px;
+  min-width: 142px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 95px;
+  min-height: 23px;
+  min-width: 79px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-word-docume {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 97px;
+  min-height: 23px;
+  min-width: 195px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .address {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 75px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group16-item {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-top: 7px;
+  min-width: 1058px;
+}
+
+.file-sharing-page-2 .convallis-posuere-morbi-leo-urnadoc {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 299px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06042022-457-p {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 50px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 62px;
+  min-height: 23px;
+  min-width: 132px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-word-docume-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 70px;
+  min-height: 23px;
+  min-width: 195px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x2757-kb {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group16-item-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-top: 8px;
+  min-width: 1058px;
+}
+
+.file-sharing-page-2 .nisl-suscipitppt {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 127px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06182022-312-p {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 222px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 68px;
+  min-height: 23px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-power-point-d {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 78px;
+  min-height: 23px;
+  min-width: 190px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x15332-kb {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 20px;
+  min-height: 23px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .lacus-sed-turpis-tinciduntdoc {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 239px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06112022-457-p {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 110px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-3 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 83px;
+  min-height: 23px;
+  min-width: 98px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-word-docume-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 83px;
+  min-height: 23px;
+  min-width: 195px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x3866-kb {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group16-item-2 {
+  align-items: flex-end;
+  display: flex;
+  margin-top: 8px;
+  min-width: 1103px;
+}
+
+.file-sharing-page-2 .feugiat-vivamus-at-augue-egetdoc {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  min-height: 23px;
+  min-width: 282px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06182022-957-a {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 67px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 60px;
+  min-height: 23px;
+  min-width: 143px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-word-docume-3 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -0.76px;
+  margin-left: 61px;
+  min-height: 23px;
+  min-width: 195px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .address-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -1.76px;
+  margin-left: 39px;
+  min-height: 23px;
+  min-width: 61px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group14 {
+  align-items: flex-end;
+  background-image: url(../img/file---18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 20px;
+  min-width: 26px;
+  padding: 1.7px 3.8px;
+}
+
+.file-sharing-page-2 .tr {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 18px;
+  min-width: 17px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .fermentum-odio-eu-fe {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 329px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06162022-457-p {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 20px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-5 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 68px;
+  min-height: 23px;
+  min-width: 127px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-power-point-d-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 69px;
+  min-height: 23px;
+  min-width: 190px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x32618-kb {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 20px;
+  min-height: 23px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group16-item-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-top: 9px;
+  min-width: 1058px;
+}
+
+.file-sharing-page-2 .diam-volutpatxls {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 139px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06182022-135-p {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 210px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-6 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 73px;
+  min-height: 23px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-excel-docume {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 73px;
+  min-height: 23px;
+  min-width: 196px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x1793-kb {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 24px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x53 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-top: 14px;
+  min-width: 1058px;
+}
+
+.file-sharing-page-2 .lorem-ipsum-dolor-sitdoc-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 208px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06182022-457-p-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 141px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-10 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 88px;
+  min-height: 23px;
+  min-width: 79px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x8437-kb-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x52 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-left: 0.51px;
+  margin-top: 11px;
+  min-width: 1058px;
+}
+
+.file-sharing-page-2 .cursus-in-hacxls-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 139px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .text-5 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 210px;
+  min-height: 23px;
+  min-width: 142px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-11 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 86px;
+  min-height: 23px;
+  min-width: 98px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-excel-docume-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 87px;
+  min-height: 23px;
+  min-width: 196px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x5277-kb-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 24px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x51 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-top: 13px;
+  min-width: 1058px;
+}
+
+.file-sharing-page-2 .nulla-at-volutpat-diam-ut-venenatisdoc-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 311px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06182022-223-p-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 38px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-12 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 64px;
+  min-height: 23px;
+  min-width: 127px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-word-docume-6 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 73px;
+  min-height: 23px;
+  min-width: 195px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x1132-kb-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x50 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-top: 9px;
+  min-width: 1057px;
+}
+
+.file-sharing-page-2 .x2757-kb-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x15332-kb-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 20px;
+  min-height: 23px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x3866-kb-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x46 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-top: 11px;
+  min-width: 1057px;
+}
+
+.file-sharing-page-2 .feugiat-vivamus-at-augue-egetdoc-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 282px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x06182022-957-a-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 67px;
+  min-height: 23px;
+  min-width: 149px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .name-13 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 60px;
+  min-height: 23px;
+  min-width: 143px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .microsoft-word-docume-7 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  margin-left: 61px;
+  min-height: 23px;
+  min-width: 195px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .address-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 39px;
+  min-height: 23px;
+  min-width: 61px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x32618-kb-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 20px;
+  min-height: 23px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .diam-volutpatxls-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 139px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x1793-kb-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 24px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x43 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-top: 12px;
+  min-width: 1058px;
+}
+
+.file-sharing-page-2 .x2757-kb-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x15332-kb-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 20px;
+  min-height: 23px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x3866-kb-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 25px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .overlap-group15 {
+  align-items: flex-end;
+  background-image: url(../img/file---18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 20px;
+  min-width: 26px;
+  padding: 1.7px 2.8px;
+}
+
+.file-sharing-page-2 .db {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 18px;
+  min-width: 19px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x32618-kb-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 20px;
+  min-height: 23px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .diam-volutpatxls-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -2.5px;
+  min-height: 23px;
+  min-width: 139px;
+  white-space: nowrap;
+}
+
+.file-sharing-page-2 .x1793-kb-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -3.5px;
+  margin-left: 24px;
+  min-height: 23px;
+  min-width: 76px;
+  white-space: nowrap;
+}
