@@ -1,7 +1,10 @@
 # Tech440
-IST 440W project
+IST 440W Capstone project
 
 *
+  This is for academic purposes only under the Pennsylvania State University. 
+  
+  
   As a group we have recognized a business need for a secure and efficient file sharing system
 that maintains a high level of security and easy remote access. With all major modern businesses
 now taking advantage of ERP (Enterprise Resource Planning) software we decided that integrating 
